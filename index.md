@@ -1,5 +1,4 @@
 ![YaeMiko-Copyright](https://github.com/MMMIU/mmmiu.github.io/assets/45010666/8c54303c-49f6-4ace-a273-330a2c0ba783)
-![car](https://github.com/MMMIU/mmmiu.github.io/assets/45010666/042e2acf-319e-43ca-a38b-60e954ee19e7)
 # <span style="color:#FFB7C5">欢迎~</span> #
 ## Resume ##
 [Link To Resume](https://github.com/MMMIU/mmmiu.github.io/blob/main/_files/CV-YifeiMiao.pdf)
