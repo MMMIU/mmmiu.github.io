@@ -1,5 +1,5 @@
-![Yae Miko Image](https://github.com/MMMIU/mmmiu.github.io/blob/main/_files/%E7%A5%9E%E5%AD%902-Copyright-Forced.jpg)
+![YaeMiko-Copyright](https://github.com/MMMIU/mmmiu.github.io/assets/45010666/8c54303c-49f6-4ace-a273-330a2c0ba783)
 This is the personal homepage of Yifei Miao（缪一非）
 ## Resume ##
 [Link](https://github.com/MMMIU/mmmiu.github.io/blob/main/_files/CV-YifeiMiao.pdf)
-![Car Image](https://github.com/MMMIU/mmmiu.github.io/blob/main/_files/car.jpg)
+![car](https://github.com/MMMIU/mmmiu.github.io/assets/45010666/042e2acf-319e-43ca-a38b-60e954ee19e7)
