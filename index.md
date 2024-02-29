@@ -4,8 +4,8 @@
 ## Resume ##
 [Link To Resume](https://github.com/MMMIU/mmmiu.github.io/blob/main/_files/CV-YifeiMiao.pdf)
 ## Contact ##
-Tel: (+86)15257129307 | (+1)2136623091
-Email: yifeimia@gmail.com | yifeimia@163.com
+Tel: (+86)15257129307 | (+1)2136623091\
+Email: yifeimia@gmail.com | yifeimia@163.com\
 Address: 1296 1/2 W 37th St, Los Angeles, CA, 90007
 
 
