@@ -4,6 +4,27 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
 
+body {
+  background-image: url('https://github.com/MMMIU/mmmiu.github.io/assets/45010666/8c54303c-49f6-4ace-a273-330a2c0ba783');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  filter: blur(10px); /* 添加模糊效果 */
+  -webkit-filter: blur(10px); /* 兼容Webkit内核浏览器 */
+}
+
+/* 添加前景内容的毛玻璃效果 */
+.glass-effect {
+  background: rgba(255, 255, 255, 0.3); /* 半透明背景 */
+  backdrop-filter: blur(10px); /* 毛玻璃效果 */
+  -webkit-backdrop-filter: blur(10px); /* 兼容Webkit内核浏览器 */
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
