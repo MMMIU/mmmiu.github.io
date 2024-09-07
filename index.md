@@ -1,5 +1,5 @@
 ![YaeMiko-Copyright](https://github.com/MMMIU/mmmiu.github.io/assets/45010666/8c54303c-49f6-4ace-a273-330a2c0ba783)
-# <span style="color:#FFB7C5">欢迎~</span> #
+# <span style="color:#FFB7C5">Welcome 欢迎~</span> #
 ## Resume ##
 [Link To Resume](https://github.com/MMMIU/mmmiu.github.io/blob/main/_files/CV-YifeiMiao.pdf)
 ## Contact ##
